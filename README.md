@@ -1,16 +1,16 @@
 Hi 👋 My name is Mateus Oliveira Monteiro
 =======================================
 
-### Trainee Frontend Developer
+### Junior Frontend Developer/Site Reliability Engineer
 
 I started my contact with computers and programming on school as a member of a robotics team, with him we traveled around the country competing for the OBR (
-brazilian robotics olympics). Since then my passion for programming and technology only increased until I joined FIEC to study more about web development. Now I am part of the FIEC development team as an intern.
+brazilian robotics olympics). Since then my passion for programming and technology only increased until I joined FIEC to study more about web development. Now I am a Site Reliability  Engineer at NTT data company, and I am studying information systems at IF Sul de Minas.
 
 ##
 
-* 🌍  I'm based in Indaiatuba, São Paulo, Brazil
-* 🧠  I'm learning React,Typescript and Flutter
-* 🤝  I'm open to collaborating on Frontend web projects
+* 🌍  I'm based Machado, Minas Gerais, Brazil
+* 🧠  I'm learning React,Javascript and C
+* 🤝  I'm a Site Reliability Engineer
 * ⚡  I love to read, play videogames, astronomy, listen to musics and learn new things
 
 <br>
