@@ -5,6 +5,17 @@ Hi 👋 My name is Mateus Oliveira Monteiro
 
 I started my contact with computers and programming on school as a member of a robotics team, with him we traveled around the country competing for the OBR (
 brazilian robotics olympics). Since then my passion for programming and technology only increased until I joined FIEC to study more about web development. Now I am a Site Reliability  Engineer at NTT data company, and I am studying information systems at IF Sul de Minas.
+##
+ My Certifications:
+<div style="display: inline_block">
+  <img src="https://github.com/Mateus-Oliveira-Monteiro/Mateus-Oliveira-Monteiro/assets/81173375/da52df3c-e4b4-48b5-a4ef-57bd96650eb6"/>
+</div>
+<br>
+<div align="left">
+<a href="https://www.credly.com/users/mateus-monteiro.3491e1d8">Badge Link</a>
+</div>
+
+<br>
 
 ##
 
@@ -16,7 +27,6 @@ brazilian robotics olympics). Since then my passion for programming and technolo
 <br>
 
 <div align="center">
-  <a href="https://github.com/rafaballerini">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Mateus-Oliveira-Monteiro&show_icons=true&theme=radical&include_all_commits=false&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mateus-Oliveira-Monteiro&layout=compact&langs_count=7&theme=radical"/>
 </div>
