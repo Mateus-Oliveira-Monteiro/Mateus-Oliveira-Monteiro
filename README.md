@@ -20,7 +20,7 @@ brazilian robotics olympics). Since then my passion for programming and technolo
 ##
 
 * 🌍  I'm based Machado, Minas Gerais, Brazil
-* 🧠  I'm learning React,Javascript and C
+* 🧠  I'm learning Go,Java and C#
 * 🤝  I'm a Site Reliability Engineer
 * ⚡  I love to read, play videogames, astronomy, listen to musics and learn new things
 
