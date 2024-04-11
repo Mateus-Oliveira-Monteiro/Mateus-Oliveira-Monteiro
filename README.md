@@ -31,7 +31,7 @@ brazilian robotics olympics). Since then my passion for programming and technolo
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mateus-Oliveira-Monteiro&layout=compact&langs_count=7&theme=radical"/>
 </div>
 
-<br> 
+<br>
 <div style="display: inline_block"><br>
   <img align="center" alt="mateus-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="mateus-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
@@ -44,6 +44,7 @@ brazilian robotics olympics). Since then my passion for programming and technolo
   <img align="center" alt="mateus-node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
   <img align="center" alt="mateus-Golang" width="30" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg"/>
   <img align="center" alt="mateus-Csharp" width="30" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"/>
+  <img align="center" alt="mateus-Csharp" width="40" height="40" src="https://github.com/Mateus-Oliveira-Monteiro/Mateus-Oliveira-Monteiro/assets/81173375/38c2465e-3f9c-4afe-b7c8-621243c2b197.svg"/>
           
 </div>
 
